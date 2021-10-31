@@ -1,0 +1,373 @@
+ {
+  "products": [
+    {
+      "id": 1,
+      "name": "Xiaomi 11T Pro",
+      "images": "xiaomi-11t-pro",
+      "branch": "xiaomi",
+      "price": 24999000,
+      "rate": 10,
+      "specifications": {
+        "screen": "6.81 inches Super AMOLED",
+        "system": "Android 11",
+        "cambef": "20MP",
+        "camaft": "108MP",
+        "ram": "12GB",
+        "rom": "256GB",
+        "battery": "Li-po 4600mAh"
+      },
+      "amount": 40
+    },
+    {
+      "id": 2,
+      "name": "Xiaomi Redmi Note 10 Pro",
+      "images": "xiaomi-redmi-note-10-pro",
+      "branch": "xiaomi",
+      "price": 6999000,
+      "rate": 15,
+      "specifications": {
+        "screen": "6.67 inches Super AMOLED",
+        "system": "Android 11",
+        "cambef": "16MP",
+        "camaft": "108MP",
+        "ram": "12GB",
+        "rom": "256GB",
+        "battery": "5020mAh"
+      },
+      "amount": 30
+    },
+    {
+      "id": 3,
+      "name": "Xiaomi Redmi 9C",
+      "images": "xiaomi-redmi-9c",
+      "branch": "xiaomi",
+      "price": 3249000,
+      "rate": 3,
+      "specifications": {
+        "screen": "6.53 IPS LCD",
+        "system": "MediaTek Helio G35 8 nhân",
+        "cambef": "5MP",
+        "camaft": "13MP",
+        "ram": "4GB",
+        "rom": "128GB",
+        "battery": "5000mAh"
+      },
+      "amount": 0
+    },
+    {
+      "id": 4,
+      "name": "Samsung Galaxy S21 Ultra",
+      "images": "samsung-galaxy-s21-ultra",
+      "branch": "samsung",
+      "price": 24549000,
+      "rate": 3,
+      "specifications": {
+        "screen": "Dynamic AMOLED 2X, 6.8",
+        "system": "Android 11",
+        "cambef": "40MP",
+        "camaft": "108MP",
+        "ram": "12GB",
+        "rom": "128GB",
+        "battery": "5000mAh"
+      },
+      "amount": 18
+    },
+    {
+      "id": 5,
+      "name": "Samsung Galaxy A52s",
+      "images": "samsung-galaxy-a52s",
+      "branch": "samsung",
+      "price": 9799000,
+      "rate": 3,
+      "specifications": {
+        "screen": "6.53 Super AMOLED",
+        "system": "Android 11",
+        "cambef": "32MP",
+        "camaft": "13MP",
+        "ram": "4GB",
+        "rom": "128GB",
+        "battery": "4500mAh"
+      },
+      "amount": 22
+    },
+    {
+      "id": 6,
+      "name": "Samsung Galaxy A12",
+      "images": "samsung-galaxy-a12",
+      "branch": "samsung",
+      "price": 3249000,
+      "rate": 3,
+      "specifications": {
+        "screen": "PLS TFT LCD 6.5",
+        "system": "Android 10",
+        "cambef": "8MP",
+        "camaft": "48MP",
+        "ram": "4GB",
+        "rom": "128GB",
+        "battery": "5000mAh"
+      },
+      "amount": 56
+    },
+    {
+      "id": 7,
+      "name": "OPPO Reno6",
+      "images": "oppo-reno6",
+      "branch": "oppo",
+      "price": 3249000,
+      "rate": 3,
+      "specifications": {
+        "screen": "AMOLED 6.43",
+        "system": "Android 11",
+        "cambef": "32MP",
+        "camaft": "64MP",
+        "ram": "8GB",
+        "rom": "128GB",
+        "battery": "4300mAh"
+      },
+      "amount": 77
+    },
+    {
+      "id": 8,
+      "name": "OPPO A94",
+      "images": "oppo-a94",
+      "branch": "oppo",
+      "price": 3249000,
+      "rate": 3,
+      "specifications": {
+        "screen": "AMOLED 6.43",
+        "system": "Android 11",
+        "cambef": "32MP",
+        "camaft": "48MP",
+        "ram": "8GB",
+        "rom": "128GB",
+        "battery": "4310mAh"
+      },
+      "amount": 9
+    },
+    {
+      "id": 9,
+      "name": "OPPO A15s",
+      "images": "oppo-a15s",
+      "branch": "oppo",
+      "price": 3899000,
+      "rate": 3,
+      "specifications": {
+        "screen": "IPS LCD 6.52",
+        "system": "Android 10",
+        "cambef": "8MP",
+        "camaft": "13MP",
+        "ram": "4GB",
+        "rom": "64GB",
+        "battery": "4230mAh"
+      },
+      "amount": 0
+    },
+    {
+      "id": 10,
+      "name": "Realme 8",
+      "images": "realme-8",
+      "branch": "realme",
+      "price": 3249000,
+      "rate": 3,
+      "specifications": {
+        "screen": "Super AMOLED 6.4",
+        "system": "Android 11",
+        "cambef": "16MP",
+        "camaft": "64MP",
+        "ram": "8GB",
+        "rom": "128GB",
+        "battery": "5000mAh"
+      },
+      "amount": 48
+    },
+    {
+      "id": 11,
+      "name": "Nokia C30",
+      "images": "nokia-c30",
+      "branch": "nokia",
+      "price": 2749000,
+      "rate": 3,
+      "specifications": {
+        "screen": "IPS LCD 6.82",
+        "system": "Android 11",
+        "cambef": "5MP",
+        "camaft": "13MP",
+        "ram": "3GB",
+        "rom": "32GB",
+        "battery": "6000mAh"
+      },
+      "amount": 0
+    },
+    {
+      "id": 12,
+      "name": "Samsung Galaxy A03S",
+      "images": "samsung-galaxy-a03s",
+      "branch": "samsung",
+      "price": 3279000,
+      "rate": 3,
+      "specifications": {
+        "screen": "TFT LCD 2.4",
+        "system": "Snapdragon 210 4 nhân",
+        "cambef": "VGA",
+        "camaft": "Không",
+        "ram": "512MB",
+        "rom": "4GB",
+        "battery": "1500mAh"
+      },
+      "amount": 75
+    },
+    {
+      "name": "OPPO A74",
+      "images": "oppo-a74",
+      "branch": "oppo",
+      "price": 6069000,
+      "rate": 3,
+      "specifications": {
+        "screen": "AMOLED 6.43",
+        "system": "Android 11",
+        "cambef": "16 MP",
+        "camaft": "48 MP",
+        "ram": "8GB",
+        "rom": "128GB",
+        "battery": "5000mAh"
+      },
+      "amount": 75,
+      "createdAt": 1635680341418,
+      "id": 13
+    }
+  ],
+  "store": [
+    {
+      "id": "1A",
+      "address": "67 Trần Quang Khải, P.Tân Định, Q.1, TP.HCM",
+      "openHour": "8h30",
+      "closeHour": "21h30",
+      "phone": "1800 6878",
+      "numberPress": 401,
+      "parkArea": true,
+      "district": "Quận 1",
+      "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.2495838014324!2d106.69178011411661!3d10.792186661855288!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317528cc801ff575%3A0x3c319a05c1e6791a!2zNjcgVHLhuqduIFF1YW5nIEto4bqjaSwgVMOibiDEkOG7i25oLCBRdeG6rW4gMSwgVGjDoG5oIHBo4buRIEjhu5MgQ2jDrSBNaW5oLCBWaeG7h3QgTmFt!5e0!3m2!1svi!2s!4v1635430051838!5m2!1svi!2s"
+    },
+    {
+      "id": "2A",
+      "address": "89 Trần Quang Khải, P.Tân Định, Q.1, TP.HCM",
+      "openHour": "8h30",
+      "closeHour": "21h30",
+      "phone": "1800 6878",
+      "numberPress": 402,
+      "parkArea": false,
+      "district": "Quận 1",
+      "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.2512319286957!2d106.69082931411656!3d10.792060261857625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317528cc890549ab%3A0x574bb12aeba06499!2zODkgVHLhuqduIFF1YW5nIEto4bqjaSwgVMOibiDEkOG7i25oLCBRdeG6rW4gMSwgVGjDoG5oIHBo4buRIEjhu5MgQ2jDrSBNaW5oLCBWaeG7h3QgTmFt!5e0!3m2!1svi!2s!4v1635430590710!5m2!1svi!2s"
+    },
+    {
+      "id": "3A",
+      "address": "370 Lê Văn Sỹ, P.14, Q.3, TP.HCM",
+      "openHour": "9h00",
+      "closeHour": "21h00",
+      "phone": "1800 6878",
+      "numberPress": 410,
+      "parkArea": true,
+      "district": "Quận 3",
+      "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.3077052674676!2d106.67624131411652!3d10.787728261936465!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752f2af7946eeb%3A0xa3b814b817d1c145!2zMzcwIEzDqiBWxINuIFPhu7ksIFBoxrDhu51uZyAxNCwgUXXhuq1uIDMsIFRow6BuaCBwaOG7kSBI4buTIENow60gTWluaCwgVmnhu4d0IE5hbQ!5e0!3m2!1svi!2s!4v1635430756498!5m2!1svi!2s"
+    },
+    {
+      "id": "4A",
+      "address": "191 Khánh Hội, P.3, Q.4, TP.HCM",
+      "openHour": "10h00",
+      "closeHour": "20h00",
+      "phone": "1800 6878",
+      "numberPress": 403,
+      "parkArea": true,
+      "district": "Quận 4",
+      "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.7028799927953!2d106.69787631411629!3d10.757366662488412!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752f6d4cef81a5%3A0xccc9d2187d024b99!2zMTkxIEtow6FuaCBI4buZaSwgUGjGsOG7nW5nIDYsIFF14bqtbiA0LCBUaMOgbmggcGjhu5EgSOG7kyBDaMOtIE1pbmgsIFZp4buHdCBOYW0!5e0!3m2!1svi!2s!4v1635430908326!5m2!1svi!2s"
+    },
+    {
+      "id": "5A",
+      "address": "148A Nguyễn Cư Trinh, P.NCT, Q.1, TP.HCM",
+      "openHour": "8h30",
+      "closeHour": "21h30",
+      "phone": "1800 6878",
+      "numberPress": 405,
+      "parkArea": true,
+      "district": "Quận 1",
+      "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.632213230176!2d106.68597431411641!3d10.762802262389734!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752f1755977c31%3A0x6a8256b0f0ee3686!2zMTQ4QSBOZ3V54buFbiBDxrAgVHJpbmgsIFBoxrDhu51uZyBOZ3V54buFbiBDxrAgVHJpbmgsIFF14bqtbiAxLCBUaMOgbmggcGjhu5EgSOG7kyBDaMOtIE1pbmgsIFZp4buHdCBOYW0!5e0!3m2!1svi!2s!4v1635431071246!5m2!1svi!2s"
+    },
+    {
+      "id": "6A",
+      "address": "17 Bà Hom, P.13, Q.3, TP.HCM",
+      "openHour": "10h00",
+      "closeHour": "20h00",
+      "phone": "1800 6878",
+      "numberPress": 411,
+      "parkArea": false,
+      "district": "Quận 6",
+      "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.746835852378!2d106.6316623141163!3d10.75398426254981!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752e81434c75e7%3A0xfaa3ce2e9ef633ba!2zMTcgQsOgIEhvbSwgUGjGsOG7nW5nIDEzLCBRdeG6rW4gNiwgVGjDoG5oIHBo4buRIEjhu5MgQ2jDrSBNaW5oLCBWaeG7h3QgTmFt!5e0!3m2!1svi!2s!4v1635431208052!5m2!1svi!2s"
+    },
+    {
+      "id": "7A",
+      "address": "114 Lê Văn Việt, P.Hiệp Phú, Q.9, TP.HCM",
+      "openHour": "10h00",
+      "closeHour": "20h00",
+      "phone": "1800 6878",
+      "numberPress": 409,
+      "parkArea": true,
+      "district": "Quận 9",
+      "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3918.5384520387256!2d106.77535521411696!3d10.846589760862269!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3175270c6ee971f1%3A0x8da39c1706a598a1!2zMTE0IMSQLiBMw6ogVsSDbiBWaeG7h3QsIEhp4buHcCBQaMO6LCBRdeG6rW4gOSwgVGjDoG5oIHBo4buRIEjhu5MgQ2jDrSBNaW5oLCBWaeG7h3QgTmFt!5e0!3m2!1svi!2s!4v1635431429617!5m2!1svi!2s"
+    },
+    {
+      "id": "8A",
+      "address": "654 Lê Hồng Phong, P.10, Q.10, TP.HCM",
+      "openHour": "8h30",
+      "closeHour": "21h30",
+      "phone": "1800 6878",
+      "numberPress": 406,
+      "parkArea": true,
+      "district": "Quận 10",
+      "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.632213230176!2d106.68597431411641!3d10.762802262389734!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752f1755977c31%3A0x6a8256b0f0ee3686!2zMTQ4QSBOZ3V54buFbiBDxrAgVHJpbmgsIFBoxrDhu51uZyBOZ3V54buFbiBDxrAgVHJpbmgsIFF14bqtbiAxLCBUaMOgbmggcGjhu5EgSOG7kyBDaMOtIE1pbmgsIFZp4buHdCBOYW0!5e0!3m2!1svi!2s!4v1635431071246!5m2!1svi!2s"
+    },
+    {
+      "id": "9A",
+      "address": "206 Hoàng Văn Thụ, P.4, Q.Tân Bình, TP.HCM",
+      "openHour": "10h00",
+      "closeHour": "20h00",
+      "phone": "1800 6878",
+      "numberPress": 404,
+      "parkArea": false,
+      "district": "Quận Tân Bình",
+      "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.148004639508!2d106.65811031411671!3d10.79997426171348!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752930e6e5b435%3A0x8be6fd6fb21e7e1e!2zMjA2IEhvw6BuZyBWxINuIFRo4bulLCBQaMaw4budbmcgNCwgVMOibiBCw6xuaCwgVGjDoG5oIHBo4buRIEjhu5MgQ2jDrSBNaW5oLCBWaeG7h3QgTmFt!5e0!3m2!1svi!2s!4v1635431655218!5m2!1svi!2s"
+    },
+    {
+      "id": "10A",
+      "address": "294A Bạch Đằng, P.14, Q.Bình Thạnh, TP.HCM",
+      "openHour": "9h00",
+      "closeHour": "21h00",
+      "phone": "1800 6878",
+      "numberPress": 409,
+      "parkArea": true,
+      "district": "Quận Bình Thạnh",
+      "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.0972440353876!2d106.6988264141167!3d10.80386376164256!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317528b89425a5eb%3A0x7cf155e6055cd4b9!2zMjk0YSDEkMaw4budbmcgQuG6oWNoIMSQ4bqxbmcsIFBoxrDhu51uZyAxNCwgQsOsbmggVGjhuqFuaCwgVGjDoG5oIHBo4buRIEjhu5MgQ2jDrSBNaW5oLCBWaeG7h3QgTmFt!5e0!3m2!1svi!2s!4v1635431761235!5m2!1svi!2s"
+    },
+    {
+      "id": "11A",
+      "address": "146 Quang Trung, P.10, Q.Gò Vấp, TP.HCM",
+      "openHour": "9h00",
+      "closeHour": "21h00",
+      "phone": "1800 6878",
+      "numberPress": 406,
+      "parkArea": true,
+      "district": "Quận Gò Vấp",
+      "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3918.778978985965!2d106.67310551411677!3d10.828219161198101!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317529712f63d05f%3A0x87f479505461446!2sHnam%20Mobile!5e0!3m2!1svi!2s!4v1635431869925!5m2!1svi!2s"
+    },
+    {
+      "id": "12A",
+      "address": "112 Võ Văn Ngân, P.Bình Thọ, Q.Thủ Đức, TP.HCM",
+      "openHour": "10h00",
+      "closeHour": "20h00",
+      "phone": "1800 6878",
+      "numberPress": 404,
+      "parkArea": false,
+      "district": "Quận Thủ Đức",
+      "urlMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3918.4879823000288!2d106.75828941411704!3d10.850440560791816!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317527a2979ba129%3A0x8abf7caedea40484!2zMTEyIMSQLiBWw7UgVsSDbiBOZ8OibiwgQsOsbmggVGjhu40sIFRo4bunIMSQ4bupYywgVGjDoG5oIHBo4buRIEjhu5MgQ2jDrSBNaW5oLCBWaeG7h3QgTmFt!5e0!3m2!1svi!2s!4v1635432205282!5m2!1svi!2s"
+    }
+  ]
+}
