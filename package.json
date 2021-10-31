@@ -1,0 +1,22 @@
+{
+  "name": "huy-mobile-json-server",
+  "version": "1.0.0",
+  "description": "demo-json-server",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon main.js",
+    "start": "node main.js"
+  },
+  "keywords": [
+    "huy-mobile-json-server"
+  ],
+  "author": "Nguyen Minh Huy",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  },
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
